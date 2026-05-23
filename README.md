@@ -25,5 +25,4 @@
  fc.setInitialDirectory(new File("./"));
  fc.getExtensionFilters().add(new FileChooser.ExtensionFilter("Szövegfájlok", "*.txt"));
  File fbe = fc.showOpenDialog(lsLista.getScene().getWindow());
-
 ```
