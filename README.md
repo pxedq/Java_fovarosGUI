@@ -1,4 +1,4 @@
-# FovarosGUI
+# Főváros - GUI
 ```
  A fovaros.csv fájl országok és fővárosaik (név és lakosság) adatait tartalmazza,
  pontosvesszővel elválasztva, utf-8 kódolással. VIGYÁZAT, az első sor fejléc!
